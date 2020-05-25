@@ -7,7 +7,7 @@ This is a challenge #1 from [app-ideas @florinpop17](https://github.com/florinpo
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-![](header.png)
+<img src="https://user-images.githubusercontent.com/989544/82838189-6af75380-9e99-11ea-8887-5a3605d430d5.png" width="500" />
 
 Binary is the number system all digital computers are based on. Therefore it's important for developers to understand binary, or base 2, mathematics. The purpose of Bin2Dec is to provide practice and understanding of how binary calculations.
 
@@ -28,19 +28,3 @@ constraints:
 -   [ ] User can enter up to 8 binary digits in one input field
 -   [ ] User must be notified if anything other than a 0 or 1 was entered
 -   [ ] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
-
-## Meta
-
-Janes Roberto – [@kadoshmt](https://twitter.com/kadoshmt) – kadosh_mt@hotmail.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
