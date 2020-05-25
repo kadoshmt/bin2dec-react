@@ -3,10 +3,6 @@
 
 This is a challenge #1 from [app-ideas @florinpop17](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 <img src="https://user-images.githubusercontent.com/989544/82838189-6af75380-9e99-11ea-8887-5a3605d430d5.png" width="500" />
 
 Binary is the number system all digital computers are based on. Therefore it's important for developers to understand binary, or base 2, mathematics. The purpose of Bin2Dec is to provide practice and understanding of how binary calculations.
